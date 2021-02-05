@@ -1,5 +1,8 @@
 *** Changelog ***
 
+= 4.9.0 - 2021-xx-xx =
+* Fix - Apple Pay domain verification with live secret key.
+
 = 4.8.0 - 2021-01-28 =
 * Fix   - Filter more disallowed characters from statement descriptors.
 * Fix   - Payment request button for Puerto Rico.
